@@ -1,0 +1,112 @@
+[
+   {
+      "name": "Nian",
+      "rarity": 6,
+      "image": {
+          "profile": "nian-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Nian_tooltip"
+
+      }
+   },
+   {
+      "name": "W",
+      "rarity": 6,
+      "image": {
+          "profile": "w-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "W_tooltip"
+
+      }
+   },
+   {
+      "name": "Rosmontis",
+      "rarity": 6,
+      "image": {
+          "profile": "rosmontis-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Rosmontis_tooltip"
+
+      }
+   },
+   {
+      "name": "Dusk",
+      "rarity": 6,
+      "image": {
+          "profile": "dusk-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Dusk_tooltip"
+
+      }
+   },
+   {
+      "name": "Skadi the Corrupting Heart",
+      "rarity": 6,
+      "image": {
+          "profile": "skadi2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Skadi_the_Corrupting_Heart_tooltip"
+
+      }
+   },
+   {
+      "name": "Ch'en the Holungday",
+      "rarity": 6,
+      "image": {
+          "profile": "chen2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ch'en_the_Holungday_tooltip"
+
+      }
+   },
+   {
+      "name": "Nearl the Radiant Knight",
+      "rarity": 6,
+      "image": {
+          "profile": "nearl2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Nearl_the_Radiant_Knight_tooltip"
+
+      }
+   },
+   {
+      "name": "Ling",
+      "rarity": 6,
+      "image": {
+          "profile": "ling-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ling_tooltip"
+
+      }
+   },
+   {
+      "name": "Specter the Unchained",
+      "rarity": 6,
+      "image": {
+          "profile": "specter2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Specter_the_Unchained_tooltip"
+
+      }
+   },
+   {
+      "name": "Gavial the Invincible",
+      "rarity": 6,
+      "image": {
+          "profile": "gavial2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Gavial_the_Invincible_tooltip"
+
+      }
+   }
+]

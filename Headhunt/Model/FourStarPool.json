@@ -1,0 +1,453 @@
+[
+   {
+      "name": "Scavenger",
+      "rarity": 4,
+      "image": {
+          "profile": "scavenger-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Scavenger_tooltip"
+
+      }
+   },
+   {
+      "name": "Vigna",
+      "rarity": 4,
+      "image": {
+          "profile": "vigna-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Vigna_tooltip"
+
+      }
+   },
+   {
+      "name": "Myrhh",
+      "rarity": 4,
+      "image": {
+          "profile": "myrhh-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Myrhh_tooltip"
+
+      }
+   },
+   {
+      "name": "Perfumer",
+      "rarity": 4,
+      "image": {
+          "profile": "perfumer-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Perfumer_tooltip"
+
+      }
+   },
+   {
+      "name": "Haze",
+      "rarity": 4,
+      "image": {
+          "profile": "haze-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Haze_tooltip"
+
+      }
+   },
+   {
+      "name": "Gitano",
+      "rarity": 4,
+      "image": {
+          "profile": "gitano-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Gitano_tooltip"
+
+      }
+   },
+   {
+      "name": "Gravel",
+      "rarity": 4,
+      "image": {
+          "profile": "gravel-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Gravel_tooltip"
+
+      }
+   },
+   {
+      "name": "Shaw",
+      "rarity": 4,
+      "image": {
+          "profile": "shaw-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Shaw_tooltip"
+
+      }
+   },
+   {
+      "name": "Shirayuki",
+      "rarity": 4,
+      "image": {
+          "profile": "shirayuki-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Shirayuki_tooltip"
+
+      }
+   },
+   {
+      "name": "Meteor",
+      "rarity": 4,
+      "image": {
+          "profile": "meteor-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Meteor_tooltip"
+
+      }
+   },
+   {
+      "name": "Jessica",
+      "rarity": 4,
+      "image": {
+          "profile": "jessica-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Jessica_tooltip"
+
+      }
+   },
+   {
+      "name": "Deepcolor",
+      "rarity": 4,
+      "image": {
+          "profile": "deepcolor-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Deepcolor_tooltip"
+
+      }
+   },
+   {
+      "name": "Earthspirit",
+      "rarity": 4,
+      "image": {
+          "profile": "earthspirit-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Earthspirit_tooltip"
+
+      }
+   },
+   {
+      "name": "Dobermann",
+      "rarity": 4,
+      "image": {
+          "profile": "dobermann-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Dobermann_tooltip"
+
+      }
+   },
+   {
+      "name": "Beehunter",
+      "rarity": 4,
+      "image": {
+          "profile": "beehunter-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Beehunter_tooltip"
+
+      }
+   },
+   {
+      "name": "Mousse",
+      "rarity": 4,
+      "image": {
+          "profile": "mousse-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mousse_tooltip"
+
+      }
+   },
+   {
+      "name": "Frostleaf",
+      "rarity": 4,
+      "image": {
+          "profile": "frostleaf-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Frostleaf_tooltip"
+
+      }
+   },
+   {
+      "name": "Matoimaru",
+      "rarity": 4,
+      "image": {
+          "profile": "matoimaru-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Matoimaru_tooltip"
+
+      }
+   },
+   {
+      "name": "[Gummy] Гум",
+      "rarity": 4,
+      "image": {
+          "profile": "gummy-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Gummy_tooltip"
+
+      }
+   },
+   {
+      "name": "Matterhorn",
+      "rarity": 4,
+      "image": {
+          "profile": "matterhorn-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Matterhorn_tooltip"
+
+      }
+   },
+   {
+      "name": "Greyy",
+      "rarity": 4,
+      "image": {
+          "profile": "greyy-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Greyy_tooltip"
+
+      }
+   },
+   {
+      "name": "Sussurro",
+      "rarity": 4,
+      "image": {
+          "profile": "sussurro-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Sussurro_tooltip"
+
+      }
+   },
+   {
+      "name": "Myrtle",
+      "rarity": 4,
+      "image": {
+          "profile": "myrtle-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Myrtle_tooltip"
+
+      }
+   },
+   {
+      "name": "Vermeil",
+      "rarity": 4,
+      "image": {
+          "profile": "vermeil-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Vermeil_tooltip"
+
+      }
+   },
+   {
+      "name": "May",
+      "rarity": 4,
+      "image": {
+          "profile": "may-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "May_tooltip"
+
+      }
+   },
+   {
+      "name": "Ambriel",
+      "rarity": 4,
+      "image": {
+          "profile": "ambriel-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ambriel_tooltip"
+
+      }
+   },
+   {
+      "name": "Utage",
+      "rarity": 4,
+      "image": {
+          "profile": "utage-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Utage_tooltip"
+
+      }
+   },
+   {
+      "name": "Purestream",
+      "rarity": 4,
+      "image": {
+          "profile": "purestream-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Purestream_tooltip"
+
+      }
+   },
+   {
+      "name": "Cutter",
+      "rarity": 4,
+      "image": {
+          "profile": "cutter-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Cutter_tooltip"
+
+      }
+   },
+   {
+      "name": "Podenco",
+      "rarity": 4,
+      "image": {
+          "profile": "podenco-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Podenco_tooltip"
+
+      }
+   },
+   {
+      "name": "Click",
+      "rarity": 4,
+      "image": {
+          "profile": "click-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Click_tooltip"
+
+      }
+   },
+   {
+      "name": "Jaye",
+      "rarity": 4,
+      "image": {
+          "profile": "jaye-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Jaye_tooltip"
+
+      }
+   },
+   {
+      "name": "Aciddrop",
+      "rarity": 4,
+      "image": {
+          "profile": "aciddrop-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Aciddrop_tooltip"
+
+      }
+   },
+   {
+      "name": "Arene",
+      "rarity": 4,
+      "image": {
+          "profile": "arene-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Arene_tooltip"
+
+      }
+   },
+   {
+      "name": "Bubble",
+      "rarity": 4,
+      "image": {
+          "profile": "bubble-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Bubble_tooltip"
+
+      }
+   },
+   {
+      "name": "Jackie",
+      "rarity": 4,
+      "image": {
+          "profile": "jackie-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Jackie_tooltip"
+
+      }
+   },
+   {
+      "name": "Pinecone",
+      "rarity": 4,
+      "image": {
+          "profile": "pinecone-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Pinecone_tooltip"
+
+      }
+   },
+   {
+      "name": "Beanstalk",
+      "rarity": 4,
+      "image": {
+          "profile": "beanstalk-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Beanstalk_tooltip"
+
+      }
+   },
+   {
+      "name": "Indigo",
+      "rarity": 4,
+      "image": {
+          "profile": "indigo-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Indigo_tooltip"
+
+      }
+   },
+   {
+      "name": "Roberta",
+      "rarity": 4,
+      "image": {
+          "profile": "roberta-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Roberta_tooltip"
+
+      }
+   },
+   {
+      "name": "Chestnut",
+      "rarity": 4,
+      "image": {
+          "profile": "chestnut-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Chestnut_tooltip"
+
+      }
+   }
+]

@@ -1,0 +1,761 @@
+[
+   {
+      "name": "Texas",
+      "rarity": 5,
+      "image": {
+          "profile": "texas-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Texas_tooltip"
+
+      }
+   },
+   {
+      "name": "[Zima] Зима",
+      "rarity": 5,
+      "image": {
+          "profile": "zima-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Zima_tooltip"
+
+      }
+   },
+   {
+      "name": "Ptilopsis",
+      "rarity": 5,
+      "image": {
+          "profile": "ptilopsis-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ptilopsis_tooltip"
+
+      }
+   },
+   {
+      "name": "Silence",
+      "rarity": 5,
+      "image": {
+          "profile": "silence-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Silence_tooltip"
+
+      }
+   },
+   {
+      "name": "Warfarin",
+      "rarity": 5,
+      "image": {
+          "profile": "warfarin-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Warfarin_tooltip"
+
+      }
+   },
+   {
+      "name": "Nightmare",
+      "rarity": 5,
+      "image": {
+          "profile": "nightmare-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Nightmare_tooltip"
+
+      }
+   },
+   {
+      "name": "Skyfire",
+      "rarity": 5,
+      "image": {
+          "profile": "skyfire-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Skyfire_tooltip"
+
+      }
+   },
+   {
+      "name": "Projekt Red",
+      "rarity": 5,
+      "image": {
+          "profile": "red-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Projekt_Red_tooltip"
+
+      }
+   },
+   {
+      "name": "Manticore",
+      "rarity": 5,
+      "image": {
+          "profile": "manticore-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Manticore_tooltip"
+
+      }
+   },
+   {
+      "name": "Cliffheart",
+      "rarity": 5,
+      "image": {
+          "profile": "cliffheart-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Cliffheart_tooltip"
+
+      }
+   },
+   {
+      "name": "FEater",
+      "rarity": 5,
+      "image": {
+          "profile": "feater-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "FEater_tooltip"
+
+      }
+   },
+   {
+      "name": "Provence",
+      "rarity": 5,
+      "image": {
+          "profile": "provence-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Provence_tooltip"
+
+      }
+   },
+   {
+      "name": "Blue Poison",
+      "rarity": 5,
+      "image": {
+          "profile": "bluep-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Blue_Poison_tooltip"
+
+      }
+   },
+   {
+      "name": "Firewatch",
+      "rarity": 5,
+      "image": {
+          "profile": "firewatch-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Firewatch_tooltip"
+
+      }
+   },
+   {
+      "name": "Meteorite",
+      "rarity": 5,
+      "image": {
+          "profile": "meteorite-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Meteorite_tooltip"
+
+      }
+   },
+   {
+      "name": "Platinum",
+      "rarity": 5,
+      "image": {
+          "profile": "platinum-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Platinum_tooltip"
+
+      }
+   },
+   {
+      "name": "Pramanix",
+      "rarity": 5,
+      "image": {
+          "profile": "pramanix-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Pramanix_tooltip"
+
+      }
+   },
+   {
+      "name": "[Istina] Истина",
+      "rarity": 5,
+      "image": {
+          "profile": "istina-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Istina_tooltip"
+
+      }
+   },
+   {
+      "name": "Mayer",
+      "rarity": 5,
+      "image": {
+          "profile": "mayer-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mayer_tooltip"
+
+      }
+   },
+   {
+      "name": "Sora",
+      "rarity": 5,
+      "image": {
+          "profile": "sora-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Sora_tooltip"
+
+      }
+   },
+   {
+      "name": "Franka",
+      "rarity": 5,
+      "image": {
+          "profile": "franka-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Franka_tooltip"
+
+      }
+   },
+   {
+      "name": "Specter",
+      "rarity": 5,
+      "image": {
+          "profile": "specter-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Specter_tooltip"
+
+      }
+   },
+   {
+      "name": "Lappland",
+      "rarity": 5,
+      "image": {
+          "profile": "lappland-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Lappland_tooltip"
+
+      }
+   },
+   {
+      "name": "Nearl",
+      "rarity": 5,
+      "image": {
+          "profile": "nearl-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Nearl_tooltip"
+
+      }
+   },
+   {
+      "name": "Liskarm",
+      "rarity": 5,
+      "image": {
+          "profile": "liskarm-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Liskarm_tooltip"
+
+      }
+   },
+   {
+      "name": "Croissant",
+      "rarity": 5,
+      "image": {
+          "profile": "croissant-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Croissant_tooltip"
+
+      }
+   },
+   {
+      "name": "Swire",
+      "rarity": 5,
+      "image": {
+          "profile": "swire-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Swire_tooltip"
+
+      }
+   },
+   {
+      "name": "Glaucus",
+      "rarity": 5,
+      "image": {
+          "profile": "glaucus-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Glaucus_tooltip"
+
+      }
+   },
+   {
+      "name": "Astesia",
+      "rarity": 5,
+      "image": {
+          "profile": "astesia-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Astesia_tooltip"
+
+      }
+   },
+   {
+      "name": "Executor",
+      "rarity": 5,
+      "image": {
+          "profile": "executor-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Executor_tooltip"
+
+      }
+   },
+   {
+      "name": "Waai Fu",
+      "rarity": 5,
+      "image": {
+          "profile": "waaifu-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Waai_Fu_tooltip"
+
+      }
+   },
+   {
+      "name": "Reed",
+      "rarity": 5,
+      "image": {
+          "profile": "reed-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Reed_tooltip"
+
+      }
+   },
+   {
+      "name": "Broca",
+      "rarity": 5,
+      "image": {
+          "profile": "broca-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Broca_tooltip"
+
+      }
+   },
+   {
+      "name": "GreyThroat",
+      "rarity": 5,
+      "image": {
+          "profile": "greythroat-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "GreyThroat_tooltip"
+
+      }
+   },
+   {
+      "name": "Hung",
+      "rarity": 5,
+      "image": {
+          "profile": "hung-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Hung_tooltip"
+
+      }
+   },
+   {
+      "name": "Leizi",
+      "rarity": 5,
+      "image": {
+          "profile": "leizi-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Leizi_tooltip"
+
+      }
+   },
+   {
+      "name": "Sesa",
+      "rarity": 5,
+      "image": {
+          "profile": "sesa-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Sesa_tooltip"
+
+      }
+   },
+   {
+      "name": "Shamare",
+      "rarity": 5,
+      "image": {
+          "profile": "shamare-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Shamare_tooltip"
+
+      }
+   },
+   {
+      "name": "Elysium",
+      "rarity": 5,
+      "image": {
+          "profile": "elysium-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Elysium_tooltip"
+
+      }
+   },
+   {
+      "name": "Asbestos",
+      "rarity": 5,
+      "image": {
+          "profile": "asbestos-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Asbestos_tooltip"
+
+      }
+   },
+   {
+      "name": "Tsukinogi",
+      "rarity": 5,
+      "image": {
+          "profile": "tsukinogi-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Tsukinogi_tooltip"
+
+      }
+   },
+   {
+      "name": "Leonhardt",
+      "rarity": 5,
+      "image": {
+          "profile": "leonhardt-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Leonhardt_tooltip"
+
+      }
+   },
+   {
+      "name": "Ayerscarpe",
+      "rarity": 5,
+      "image": {
+          "profile": "ayerscarpe-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ayerscarpe_tooltip"
+
+      }
+   },
+   {
+      "name": "Beeswax",
+      "rarity": 5,
+      "image": {
+          "profile": "beeswax-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Beeswax_tooltip"
+
+      }
+   },
+   {
+      "name": "Chiave",
+      "rarity": 5,
+      "image": {
+          "profile": "chiave-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Chiave_tooltip"
+
+      }
+   },
+   {
+      "name": "Andreana",
+      "rarity": 5,
+      "image": {
+          "profile": "andreana-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Andreana_tooltip"
+
+      }
+   },
+   {
+      "name": "Flint",
+      "rarity": 5,
+      "image": {
+          "profile": "flint-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Flint_tooltip"
+
+      }
+   },
+   {
+      "name": "April",
+      "rarity": 5,
+      "image": {
+          "profile": "april-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "April_tooltip"
+
+      }
+   },
+   {
+      "name": "Aosta",
+      "rarity": 5,
+      "image": {
+          "profile": "aosta-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Aosta_tooltip"
+
+      }
+   },
+   {
+      "name": "Whisperain",
+      "rarity": 5,
+      "image": {
+          "profile": "whisperain-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Whisperain_tooltip"
+
+      }
+   },
+   {
+      "name": "Kafka",
+      "rarity": 5,
+      "image": {
+          "profile": "kafka-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Kafka_tooltip"
+
+      }
+   },
+   {
+      "name": "Iris",
+      "rarity": 5,
+      "image": {
+          "profile": "iris-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Iris_tooltip"
+
+      }
+   },
+   {
+      "name": "Mr.Nothing",
+      "rarity": 5,
+      "image": {
+          "profile": "nothing-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mr._Nothing_tooltip"
+
+      }
+   },
+   {
+      "name": "Toddifons",
+      "rarity": 5,
+      "image": {
+          "profile": "toddifons-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Toddifons_tooltip"
+
+      }
+   },
+   {
+      "name": "Akafuyu",
+      "rarity": 5,
+      "image": {
+          "profile": "akafuyu-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Akafuyu_tooltip"
+
+      }
+   },
+   {
+      "name": "Kirara",
+      "rarity": 5,
+      "image": {
+          "profile": "kirara-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Kirara_tooltip"
+
+      }
+   },
+   {
+      "name": "La Pluma",
+      "rarity": 5,
+      "image": {
+          "profile": "lapluma-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "La_Pluma_tooltip"
+
+      }
+   },
+   {
+      "name": "Mulberry",
+      "rarity": 5,
+      "image": {
+          "profile": "mulberry-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mulberry_tooltip"
+
+      }
+   },
+   {
+      "name": "Ashlock",
+      "rarity": 5,
+      "image": {
+          "profile": "ashlock-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ashlock_tooltip"
+
+      }
+   },
+   {
+      "name": "Corroserum",
+      "rarity": 5,
+      "image": {
+          "profile": "corroserum-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Corroserum_tooltip"
+
+      }
+   },
+   {
+      "name": "Aurora",
+      "rarity": 5,
+      "image": {
+          "profile": "aurora-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Aurora_tooltip"
+
+      }
+   },
+   {
+      "name": "Blacknight",
+      "rarity": 5,
+      "image": {
+          "profile": "blacknight-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Blacknight_tooltip"
+
+      }
+   },
+   {
+      "name": "Quercus",
+      "rarity": 5,
+      "image": {
+          "profile": "quercus-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Quercus_tooltip"
+
+      }
+   },
+   {
+      "name": "Kazemaru",
+      "rarity": 5,
+      "image": {
+          "profile": "kazemaru-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Kazemaru_tooltip"
+
+      }
+   },
+   {
+      "name": "Rockrock",
+      "rarity": 5,
+      "image": {
+          "profile": "rockrock-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Rockrock_tooltip"
+
+      }
+   },
+   {
+      "name": "Windflit",
+      "rarity": 5,
+      "image": {
+          "profile": "windflit-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Windflit_tooltip"
+
+      }
+   },
+   {
+      "name": "Hibiscus the Purifier",
+      "rarity": 5,
+      "image": {
+          "profile": "hibiscus2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Hibiscus_the_Purifier_tooltip"
+
+      }
+   },
+   {
+      "name": "Greyy the Lightningbearer",
+      "rarity": 5,
+      "image": {
+          "profile": "greyy2-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Greyy_the_Lightningbearer_tooltip"
+
+      }
+   },
+   {
+      "name": "Cantabile",
+      "rarity": 5,
+      "image": {
+          "profile": "cantabile-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Cantabile_tooltip"
+
+      }
+   }
+]

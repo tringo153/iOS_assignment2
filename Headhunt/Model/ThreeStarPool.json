@@ -1,0 +1,185 @@
+[
+   {
+      "name": "Fang",
+      "rarity": 3,
+      "image": {
+          "profile": "fang-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Fang_tooltip"
+      }
+   },
+   {
+      "name": "Vanilla",
+      "rarity": 3,
+      "image": {
+          "profile": "vanilla-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Vanilla_tooltip"
+      }
+   },
+   {
+      "name": "Plume",
+      "rarity": 3,
+      "image": {
+          "profile": "plume-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Plume_tooltip"
+
+      }
+   },
+   {
+      "name": "Hibiscus",
+      "rarity": 3,
+      "image": {
+          "profile": "hibiscus-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Hibiscus_tooltip"
+      }
+   },
+   {
+      "name": "Ansel",
+      "rarity": 3,
+      "image": {
+          "profile": "ansel-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ansel_tooltip"
+      }
+   },
+   {
+      "name": "Lava",
+      "rarity": 3,
+      "image": {
+          "profile": "lava-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Lava_tooltip"
+
+      }
+   },
+   {
+      "name": "Steward",
+      "rarity": 3,
+      "image": {
+          "profile": "steward-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Steward_tooltip"
+
+      }
+   },
+   {
+      "name": "Kroos",
+      "rarity": 3,
+      "image": {
+          "profile": "kroos-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Kroos_tooltip"
+
+      }
+   },
+   {
+      "name": "Adnachiel",
+      "rarity": 3,
+      "image": {
+          "profile": "adnachiel-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Adnachiel_tooltip"
+
+      }
+   },
+   {
+      "name": "Orchid",
+      "rarity": 3,
+      "image": {
+          "profile": "orchid-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Orchid_tooltip"
+
+      }
+   },
+   {
+      "name": "Melentha",
+      "rarity": 3,
+      "image": {
+          "profile": "melantha-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Melantha_tooltip"
+
+      }
+   },
+   {
+      "name": "Beagle",
+      "rarity": 3,
+      "image": {
+          "profile": "beagle-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Beagle_tooltip"
+
+      }
+   },
+   {
+      "name": "Cardigan",
+      "rarity": 3,
+      "image": {
+          "profile": "cardigan-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Cardigan_tooltip"
+
+      }
+   },
+   {
+      "name": "Catapult",
+      "rarity": 3,
+      "image": {
+          "profile": "catapult-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Catapult_tooltip"
+
+      }
+   },
+   {
+      "name": "Midnight",
+      "rarity": 3,
+      "image": {
+          "profile": "midnight-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Midnight_tooltip"
+
+      }
+   },
+   {
+      "name": "Popukar",
+      "rarity": 3,
+      "image": {
+          "profile": "popukar-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Popukar_tooltip"
+
+      }
+   },
+   {
+      "name": "Spot",
+      "rarity": 3,
+      "image": {
+          "profile": "spot-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Spot_tooltip"
+
+      }
+   }
+]

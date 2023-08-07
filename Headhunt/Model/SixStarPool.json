@@ -1,0 +1,542 @@
+[
+   {
+      "name": "Ch'en",
+      "rarity": 6,
+      "image": {
+          "profile": "chen-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ch'en_tooltip"
+
+      }
+   },
+   {
+      "name": "Siege",
+      "rarity": 6,
+      "image": {
+          "profile": "siege-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Siege_tooltip"
+
+      }
+   },
+   {
+      "name": "Shining",
+      "rarity": 6,
+      "image": {
+          "profile": "shining-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Shining_tooltip"
+
+      }
+   },
+   {
+      "name": "Nightingale",
+      "rarity": 6,
+      "image": {
+          "profile": "nightingale-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Nightingale_tooltip"
+
+      }
+   },
+   {
+      "name": "Ifrit",
+      "rarity": 6,
+      "image": {
+          "profile": "ifrit-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ifrit_tooltip"
+
+      }
+   },
+   {
+      "name": "Eyjafjalla",
+      "rarity": 6,
+      "image": {
+          "profile": "eyja-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Eyjafjalla_tooltip"
+
+      }
+   },
+   {
+      "name": "Exusiai",
+      "rarity": 6,
+      "image": {
+          "profile": "exia-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Exusiai_tooltip"
+
+      }
+   },
+   {
+      "name": "Angelina",
+      "rarity": 6,
+      "image": {
+          "profile": "angelina-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Angelina_tooltip"
+
+      }
+   },
+   {
+      "name": "SilverAsh",
+      "rarity": 6,
+      "image": {
+          "profile": "silverash-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "SilverAsh_tooltip"
+
+      }
+   },
+   {
+      "name": "Hoshiguma",
+      "rarity": 6,
+      "image": {
+          "profile": "hoshiguma-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Hoshiguma_tooltip"
+
+      }
+   },
+   {
+      "name": "Saria",
+      "rarity": 6,
+      "image": {
+          "profile": "saria-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Saria_tooltip"
+
+      }
+   },
+   {
+      "name": "Skadi",
+      "rarity": 6,
+      "image": {
+          "profile": "skadi-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Skadi_tooltip"
+
+      }
+   },
+   {
+      "name": "Schwarz",
+      "rarity": 6,
+      "image": {
+          "profile": "schwarz-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Schwarz_tooltip"
+
+      }
+   },
+   {
+      "name": "Hellagur",
+      "rarity": 6,
+      "image": {
+          "profile": "hellagur-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Hellagur_tooltip"
+
+      }
+   },
+   {
+      "name": "Magallan",
+      "rarity": 6,
+      "image": {
+          "profile": "magallan-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Magallan_tooltip"
+
+      }
+   },
+   {
+      "name": "Mostima",
+      "rarity": 6,
+      "image": {
+          "profile": "mostima-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mostima_tooltip"
+
+      }
+   },
+   {
+      "name": "Blaze",
+      "rarity": 6,
+      "image": {
+          "profile": "blaze-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Blaze_tooltip"
+
+      }
+   },
+   {
+      "name": "Aak",
+      "rarity": 6,
+      "image": {
+          "profile": "aak-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Aak_tooltip"
+
+      }
+   },
+   {
+      "name": "Ceobe",
+      "rarity": 6,
+      "image": {
+          "profile": "ceobe-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ceobe_tooltip"
+
+      }
+   },
+   {
+      "name": "Bagpipe",
+      "rarity": 6,
+      "image": {
+          "profile": "bagpipe-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Bagpipe_tooltip"
+
+      }
+   },
+   {
+      "name": "Phantom",
+      "rarity": 6,
+      "image": {
+          "profile": "phantom-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Phantom_tooltip"
+
+      }
+   },
+   {
+      "name": "Weedy",
+      "rarity": 6,
+      "image": {
+          "profile": "weedy-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Weedy_tooltip"
+
+      }
+   },
+   {
+      "name": "[Rosa] Poca",
+      "rarity": 6,
+      "image": {
+          "profile": "rosa-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Rosa_tooltip"
+
+      }
+   },
+   {
+      "name": "Suzuran",
+      "rarity": 6,
+      "image": {
+          "profile": "suzuran-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Suzuran_tooltip"
+
+      }
+   },
+   {
+      "name": "Thorns",
+      "rarity": 6,
+      "image": {
+          "profile": "thorns-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Thorns_tooltip"
+
+      }
+   },
+   {
+      "name": "Eunectes",
+      "rarity": 6,
+      "image": {
+          "profile": "eunectes-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Eunectes_tooltip"
+
+      }
+   },
+   {
+      "name": "Surtr",
+      "rarity": 6,
+      "image": {
+          "profile": "surtr-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Surtr_tooltip"
+
+      }
+   },
+   {
+      "name": "Blemishine",
+      "rarity": 6,
+      "image": {
+          "profile": "blemishine-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Blemishine_tooltip"
+
+      }
+   },
+   {
+      "name": "Mudrock",
+      "rarity": 6,
+      "image": {
+          "profile": "mudrock-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mudrock_tooltip"
+
+      }
+   },
+   {
+      "name": "Mountain",
+      "rarity": 6,
+      "image": {
+          "profile": "mountain-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mountain_tooltip"
+
+      }
+   },
+   {
+      "name": "Archetto",
+      "rarity": 6,
+      "image": {
+          "profile": "archetto-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Archetto_tooltip"
+
+      }
+   },
+   {
+      "name": "Saga",
+      "rarity": 6,
+      "image": {
+          "profile": "saga-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Saga_tooltip"
+
+      }
+   },
+   {
+      "name": "Passenger",
+      "rarity": 6,
+      "image": {
+          "profile": "passenger-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Passenger_tooltip"
+
+      }
+   },
+   {
+      "name": "Kal'tsit",
+      "rarity": 6,
+      "image": {
+          "profile": "kaltsit-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Kal'tsit_tooltip"
+
+      }
+   },
+   {
+      "name": "Carnelian",
+      "rarity": 6,
+      "image": {
+          "profile": "carnelian-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Carnelian_tooltip"
+
+      }
+   },
+   {
+      "name": "Pallas",
+      "rarity": 6,
+      "image": {
+          "profile": "pallas-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Pallas_tooltip"
+
+      }
+   },
+   {
+      "name": "Mizuki",
+      "rarity": 6,
+      "image": {
+          "profile": "mizuki-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Mizuki_tooltip"
+
+      }
+   },
+   {
+      "name": "Saileach",
+      "rarity": 6,
+      "image": {
+          "profile": "saileach-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Saileach_tooltip"
+
+      }
+   },
+   {
+      "name": "Fartooth",
+      "rarity": 6,
+      "image": {
+          "profile": "fartooth-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Fartooth_tooltip"
+
+      }
+   },
+   {
+      "name": "Flametail",
+      "rarity": 6,
+      "image": {
+          "profile": "flametail-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Flametail_tooltip"
+
+      }
+   },
+   {
+      "name": "Gnosis",
+      "rarity": 6,
+      "image": {
+          "profile": "gnosis-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Gnosis_tooltip"
+
+      }
+   },
+   {
+      "name": "Lee",
+      "rarity": 6,
+      "image": {
+          "profile": "lee-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Lee_tooltip"
+
+      }
+   },
+   {
+      "name": "Goldenglow",
+      "rarity": 6,
+      "image": {
+          "profile": "goldenglow-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Goldenglow_tooltip"
+
+      }
+   },
+   {
+      "name": "Fiammetta",
+      "rarity": 6,
+      "image": {
+          "profile": "fiammetta-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Fiammetta_tooltip"
+
+      }
+   },
+   {
+      "name": "Horn",
+      "rarity": 6,
+      "image": {
+          "profile": "horn-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Horn_tooltip"
+
+      }
+   },
+   {
+      "name": "Irene",
+      "rarity": 6,
+      "image": {
+          "profile": "irene-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Irene_tooltip"
+
+      }
+   },
+   {
+      "name": "Ebenholz",
+      "rarity": 6,
+      "image": {
+          "profile": "ebenholz-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Ebenholz_tooltip"
+
+      }
+   },
+   {
+      "name": "Dorothy",
+      "rarity": 6,
+      "image": {
+          "profile": "dorothy-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Dorothy_tooltip"
+
+      }
+   },
+   {
+      "name": "[Pozyomka] Позёмка",
+      "rarity": 6,
+      "image": {
+          "profile": "pozyomka-profile",
+          "e1": "none",
+          "e2": "none",
+          "tooltip": "Pozyomka_tooltip"
+
+      }
+   }
+
+]
